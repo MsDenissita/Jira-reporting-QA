@@ -1,2 +1,1 @@
-# Jira-reporting-QA
-Jira reporting and analysisi for QA 
+This is a test file to mae sure my GItHub branch works.
