@@ -1,1 +1,1 @@
-This is a test file to mae sure my GItHub branch works.
+git commit -m "QA2-4 <message>"
